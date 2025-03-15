@@ -20,6 +20,13 @@ body {
     margin: 20px 0;
 }
 
+#highlight {
+    color: blue;
+    background: #f4f4f4;
+    padding: 1em;
+    margin: 1em 0;
+}
+
 nav {
     background: #333;
     color: #fff;
