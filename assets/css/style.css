@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif; /* Ensure this line is present */
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -82,7 +82,7 @@ ul {
     list-style-type: disc;
     padding-left: 20px;
     padding: 0;
-    margin-left: 60px;
+    margin-left: 80px;
 }
 
 
