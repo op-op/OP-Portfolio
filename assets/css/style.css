@@ -13,6 +13,7 @@ body {
     overflow: hidden;
 }
 
+/* Class centered is used to center the content */
 .center {
     display: flex;
     justify-content: center;
@@ -20,6 +21,7 @@ body {
     margin: 20px 0;
 }
 
+/*Id highlight is used to highlight the content */
 #highlight {
     color: rgb(10, 106, 240);
     background: #f4f4f4;
