@@ -13,6 +13,13 @@ body {
     overflow: hidden;
 }
 
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
 nav {
     background: #333;
     color: #fff;
